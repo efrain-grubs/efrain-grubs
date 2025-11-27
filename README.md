@@ -75,14 +75,15 @@ Currently working on a donation + grant management system and an AWS visual infr
 
 ## 🛠️ Developer Tools
 
+## 🛠️ Developer Tools
+
 <p align="left">
 
   <!-- AWS -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40"/>
 
   <!-- Render -->
-  <img src="https://raw.githubusercontent.com/render-examples/brand-assets/main/render-logo.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/kevinwolfcr/render-brand-assets/master/logo-render.svg" width="40"/>
 
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
@@ -91,9 +92,10 @@ Currently working on a donation + grant management system and an AWS visual infr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 
   <!-- n8n -->
-  <img src="https://n8n.io/logo/n8n-logo-only.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.svg" width="40"/>
 
 </p>
+
 
 
 
