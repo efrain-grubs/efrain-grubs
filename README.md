@@ -80,7 +80,10 @@ Currently working on a donation + grant management system and an AWS visual infr
 <p align="left">
 
   <!-- AWS -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" height="50" />
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+          
 
   <!-- Render -->
   <img src="https://raw.githubusercontent.com/kevinwolfcr/render-brand-assets/master/logo-render.svg" width="40"/>
