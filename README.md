@@ -78,7 +78,8 @@ Currently working on a donation + grant management system and an AWS visual infr
 <p align="left">
 
   <!-- AWS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40"/>
+
 
   <!-- Render -->
   <img src="https://raw.githubusercontent.com/render-examples/brand-assets/main/render-logo.svg" width="40"/>
