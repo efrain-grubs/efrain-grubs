@@ -10,6 +10,7 @@ Currently working on a donation + grant management system and an AWS visual infr
   Full system with donor tracking, grants, expenses, and RBAC.
 
 - **Foundry AWS Builder(Next + FastAPI)**
+  
  Drag-and-drop AWS architecture tool with auto CloudFormation generation.
   
 - **geoSpatial media app(React + Node)**
