@@ -15,7 +15,7 @@ Currently working on a donation + grant management system and an AWS visual infr
 - **geoSpatial media app(React + Node)**
 -  social platform for geo-tagged image sharing, real-time chat, and live user location tracking
 
-## 🧰 Framework/programming languages
+## 🧰 Frameworks/programming languages
 
 <p align="left">
   <!-- Python -->
@@ -72,6 +72,29 @@ Currently working on a donation + grant management system and an AWS visual infr
   <!-- Prisma -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40"/>
 </p>
+
+## 🛠️ Developer Tools
+
+<p align="left">
+
+  <!-- AWS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+
+  <!-- Render -->
+  <img src="https://raw.githubusercontent.com/render-examples/brand-assets/main/render-logo.svg" width="40"/>
+
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+
+  <!-- n8n -->
+  <img src="https://n8n.io/logo/n8n-logo-only.svg" width="40"/>
+
+</p>
+
+
 
 
 
