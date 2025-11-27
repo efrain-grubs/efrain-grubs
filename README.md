@@ -82,7 +82,7 @@ Currently working on a donation + grant management system and an AWS visual infr
   <!-- AWS -->
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width = "40" />
           
 
   <!-- Render -->
