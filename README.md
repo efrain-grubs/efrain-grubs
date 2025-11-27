@@ -1,14 +1,17 @@
 # Hi, I'm Efrain
 
 ## 🚀 Featured Projects
-- **Donation + Grant Manager (Nuxt + Prisma)**  
-  Full system with donor tracking, grants, expenses, and RBAC.
 
-- **Foundry AWS Builder(Next + FastAPI)**
-- Drag-and-drop AWS architecture tool with auto CloudFormation generation.
-  
-- **geoSpatial media app(React + Node)**
--  social platform for geo-tagged image sharing, real-time chat, and live user location tracking
+
+**Donation + Grant Manager (Nuxt + Prisma)**  
+Full system with donor tracking, grants, expenses, and RBAC.
+
+**Foundry AWS Builder (Next + FastAPI)**  
+Drag-and-drop AWS architecture tool with automated CloudFormation generation.
+
+**geoSpatial Media App (React + Node)**  
+Social platform for geo-tagged image sharing, real-time chat, and live user location tracking.
+
 
 ## 🧰 Frameworks/programming languages
 
