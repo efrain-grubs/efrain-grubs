@@ -1,5 +1,8 @@
 # Hi, I'm Efrain
 
+## 🧑 About
+Hi, my name is Efrain. I’m a sophomore at the University of Texas at Dallas studying Computer Science. My interests in computer science revolve around cloud services, AI, and full-stack development. I mostly work with Python and JavaScript, and I have hands-on experience building projects with React, FastAPI, Express, and AWS. Outside of coding, I enjoy playing soccer, playing video games, and spending time with friends and family.
+
 ## 🚀 Featured Projects
 
 
