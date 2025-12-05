@@ -105,7 +105,7 @@ Social platform for geo-tagged image sharing, real-time chat, and live user loca
 
 
 ## 📫 Connect With Me
-- github: https://github.com/yourusername
+- Portfolio: https://main.d30t146epag7df.amplifyapp.com/
 - linkedin: https://www.linkedin.com/in/efrain-arevalo/
 
 
